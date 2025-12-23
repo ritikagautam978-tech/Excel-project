@@ -92,7 +92,7 @@ The dataset is maintained in Excel and typically includes the following columns:
 
 Below is a snapshot of the **Office Expense Tracker Dashboard** created in Excel:
 
-![Office Expense Tracker Dashboard](Screenshot 2025-12-23 123351.png)
+![Office Expense Tracker Dashboard](https://github.com/ritikagautam978-tech/Excel-project/blob/8f171adc69150dbc759b3ae2c0d94080d56575ef/Screenshot%202025-12-23%20123351.png)
 
 ---
 
